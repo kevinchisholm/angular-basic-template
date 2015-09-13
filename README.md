@@ -1,6 +1,4 @@
-![Alt text](http://sub1.kevinchisholm.com/blog/images/angularjs-logo-100.png "Angular Logo")
-
-# angular-basic-template
+![Alt text](http://sub1.kevinchisholm.com/blog/images/angularjs-logo-100.png "Angular Logo") # angular-basic-template
 A bare-bones Angular starter template
 
 
