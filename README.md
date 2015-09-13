@@ -1,4 +1,7 @@
-# angular-basic-template
+![Alt text](http://sub1.kevinchisholm.com/blog/images/angularjs-logo-small.png "Angular Logo")
+
+# angul
+ar-basic-template
 A bare-bones Angular starter template
 
 
