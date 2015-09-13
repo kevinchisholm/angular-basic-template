@@ -1,0 +1,4 @@
+node_modules/
+web/src/lib
+.idea/
+.DS_Store

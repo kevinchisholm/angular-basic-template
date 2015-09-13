@@ -1,0 +1,12 @@
+{
+    "name": "angular-basic-template",
+    "version": "1.0.0",
+    "authors": ["Kevin Chisholm"],
+    "description": "A bare-bones Angular starter template",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^3.8.10",
+        "gulp-serve": "^1.2.0 ",
+        "gulp-watch": "^3.0.0"
+    }
+}
